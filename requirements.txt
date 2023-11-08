@@ -1,0 +1,10 @@
+fastapi 
+SQLAlchemy
+uvicorn
+passlib
+bcrypt
+wheel
+mysqlclient
+# MySQL-python
+python-jose
+python-multipart
